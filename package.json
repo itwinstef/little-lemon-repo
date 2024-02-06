@@ -1,0 +1,19 @@
+{
+  "name": "little-lemon-repo",
+  "version": "1.0.0",
+  "description": "Little Lemon Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itwinstef/little-lemon-repo.git"
+  },
+  "author": "sborms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itwinstef/little-lemon-repo/issues"
+  },
+  "homepage": "https://github.com/itwinstef/little-lemon-repo#readme"
+}
